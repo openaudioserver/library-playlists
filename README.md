@@ -1,4 +1,4 @@
-# Library Playlists
+# Library: Playlists
 
 A module for [Library](https://github.com/openaudioserver/library) that adds normal and smart playlists.  Smart playlists use rules to filter your content.
 

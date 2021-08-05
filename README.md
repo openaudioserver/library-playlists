@@ -12,7 +12,7 @@ A module for [Library](https://github.com/openaudioserver/library) that adds nor
 
 First install the module with `NPM`:
 
-    $ npm install @openaudioserver/library-favorites
+    $ npm install @openaudioserver/library-playlists
 
 If you are using [Library](https://github.com/openaudioserver/library) from the command-line include the module name in your arguments:
 

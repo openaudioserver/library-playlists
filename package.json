@@ -1,0 +1,19 @@
+{
+  "name": "@openaudioserver/library-playlists",
+  "version": "1.0.0",
+  "description": "Adds smart and normal playlists to Library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openaudioserver/open-audio-server.git"
+  },
+  "author": "openaudioserver <openaudioserver@protonmail.com> (http://github.com/openaudioserver)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/openaudioserver/open-audio-server/issues"
+  },
+  "homepage": "https://github.com/openaudioserver/open-audio-server#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

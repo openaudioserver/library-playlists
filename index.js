@@ -1,8 +1,8 @@
 
 module.exports = {
   load: library => {
-    library.playlists = library.playlists || []
-    library.api.playlists = {
+    library.playLists = library.playLists || []
+    library.api.playLists = {
       create: require('./api/playlists.create.js'),
       get: require('./api/playlists.get.js'),
       list: require('./api/playlists.list.js'),
